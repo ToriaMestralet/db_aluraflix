@@ -1,0 +1,93 @@
+{
+  "contenidos": [
+    {
+      "id": "1",
+      "categoria": "Front End",
+      "foto": "/assets/front.png",
+      "videoUrl": "https://www.youtube.com/embed/PztCEdIJITY&t=4s",
+      "titulo": "Cuándo usar LET, VAR Y CONST?",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+    },
+    {
+      "id": "2",
+      "categoria": "Front End",
+      "foto": "/assets/front2.png",
+      "videoUrl": "https://www.youtube.com/embed/GJfOSoaXk4s",
+      "titulo": "¿Qué es JAVASCRIPT?",
+      "puesto": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
+    },
+    {
+      "id": "3",
+      "categoria": "Front End",
+      "foto": "/assets/front3.png",
+      "videoUrl": "https://www.youtube.com/embed/rpvrLaBQwgg",
+      "titulo": "Equipo Front End",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?"
+    },
+    {
+      "titulo": "Spring Framework",
+      "categoria": "Back End",
+      "foto": "/assets/back.png",
+      "videoUrl": "https://www.youtube.com/embed/t-iqt1b2qqk",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+      "id": "4"
+    },
+    {
+      "titulo": "¿Qué es SQL y NOSQL?",
+      "categoria": "Back End",
+      "foto": "/assets/back2.png",
+      "videoUrl": "https://www.youtube.com/embed/cLLKVd5CNLc",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "categoria": "Back End",
+      "foto": "/assets/back3.png",
+      "videoUrl": "https://www.youtube.com/embed/EoPvlE85XAQ",
+      "titulo": "Simplificando tu codigo en Java, conoce los ENUM",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
+    },
+    {
+      "id": "7",
+      "categoria": "Innovación y Gestión",
+      "foto": "/assets/in-g.png",
+      "videoUrl": "https://www.youtube.com/embed/vhwspfvI52k",
+      "titulo": "¿Qué son las soft skills?",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+    },
+    {
+      "id": "8",
+      "categoria": "Innovación y Gestión",
+      "foto": "/assets/in-g2.png",
+      "videoUrl": "https://www.youtube.com/embed/_-9grhDhxiU",
+      "titulo": "Las 7 softskills mas deseadas",
+      "descripcion": "Siempre estamos hablando aquí en el canal de Alura Latam sobre la importancia de las Soft Skills, y en este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024."
+    },
+    {
+      "id": "9",
+      "categoria": "Innovación y Gestión",
+      "foto": "/assets/in-g3.png",
+      "videoUrl": "https://www.youtube.com/embed/6N3OkLCfK-0",
+      "titulo": "¿Qué son las metodologias ágiles?",
+      "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "titulo": "Front End",
+      "colorPrimario": "#6BD1FF"
+    },
+    {
+      "id": "2",
+      "titulo": "Back End",
+      "colorPrimario": "#00C86F"
+    },
+    {
+      "id": "3",
+      "titulo": "Innovación y Gestión",
+      "colorPrimario": "#FFBA05"
+    }
+  ]
+}
