@@ -14,7 +14,7 @@
       "foto": "/assets/front2.png",
       "videoUrl": "https://www.youtube.com/embed/GJfOSoaXk4s",
       "titulo": "¿Qué es JAVASCRIPT?",
-      "puesto": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
     },
     {
       "id": "3",
